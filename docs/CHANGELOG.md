@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/mkayander/versioning-g/compare/v2.1.1...v2.1.2) (2021-11-17)
+
+
+### Bug Fixes
+
+* **CI:** Исправлена команда вызова скрипта. ([00aa6f0](https://github.com/mkayander/versioning-g/commit/00aa6f0c5395edd1c1bc1ab09230e4a42e19c647))
+
 ## [2.1.1](https://github.com/mkayander/versioning-g/compare/v2.1.0...v2.1.1) (2021-11-17)
 
 

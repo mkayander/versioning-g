@@ -1,3 +1,10 @@
+## [2.1.1](https://github.com/mkayander/versioning-g/compare/v2.1.0...v2.1.1) (2021-11-17)
+
+
+### Bug Fixes
+
+* **ci:** Убран лишний вызов скрипта. ([#3](https://github.com/mkayander/versioning-g/issues/3)) ([0805096](https://github.com/mkayander/versioning-g/commit/08050967e4e7a53e419017adcc51292463e580ee))
+
 # [2.1.0](https://github.com/mkayander/versioning-g/compare/v2.0.0...v2.1.0) (2021-11-17)
 
 

@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/mkayander/versioning-g/compare/v2.1.2...v2.2.0) (2021-11-17)
+
+
+### Features
+
+* **CI:** Вернул плагин github в semantic-release. ([#4](https://github.com/mkayander/versioning-g/issues/4)) ([8069a07](https://github.com/mkayander/versioning-g/commit/8069a0781ee00c7ebe355b70a4ca43ddb2d459f3))
+
 ## [2.1.2](https://github.com/mkayander/versioning-g/compare/v2.1.1...v2.1.2) (2021-11-17)
 
 

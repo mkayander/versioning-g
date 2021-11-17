@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/mkayander/versioning-g/compare/v2.0.0...v2.1.0) (2021-11-17)
+
+
+### Features
+
+* **CI:** disabled github plugin ([334e0c0](https://github.com/mkayander/versioning-g/commit/334e0c06c9e3a2e4515949956e526d823e9ad006))
+
 # [2.0.0](https://github.com/mkayander/versioning-g/compare/v1.2.0...v2.0.0) (2021-11-17)
 
 

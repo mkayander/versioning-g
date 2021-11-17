@@ -18,7 +18,7 @@
       [
         "@semantic-release/exec",
         {
-          "successCmd": "node ./scripts/semrelSuccess.js ${nextRelease.version} ${nextRelease.notes} ${nextRelease.notes} ${options.branch} ${commits.length} ${Date.now()}",
+          "successCmd": "node ./scripts/semrelSuccess.js '${nextRelease.version}' '${nextRelease.notes}' '${options.branch}' '${commits.length}' '${Date.now()}'",
         },
       ],
       # "@semantic-release/github",
